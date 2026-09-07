@@ -31,3 +31,10 @@ En este proyecto se está probando el cálculo de una ruta, selección de una ta
 - Lenguaje de programación Python 
 - Libreria requests de Python
 - Patron de programación POM (Page Object Model)
+
+## 4. Links del proyecto
+
+- https://docs.google.com/spreadsheets/d/1EKqraMX7wnIfejrSfI0kyFkvZP5pYCM3/edit?usp=sharing&ouid=117662769631159222767&rtpof=true&sd=true
+- https://drive.google.com/file/d/1m4fxFs-PpMvzW7mRmBogz5fP50LKRc6m/view?usp=sharing
+- https://drive.google.com/file/d/1OxxTrjEAZ31lP_ZMznEuPuFZ4E5nk6nR/view?usp=sharing
+- https://docs.google.com/spreadsheets/d/1J7yz6u1FKaTTKn5V8bP7KuxGdpw-WsK-/edit?usp=sharing&ouid=117662769631159222767&rtpof=true&sd=true
